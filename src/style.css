@@ -36,8 +36,8 @@ li:first-letter {
 }
 
 .weather-app {
-  padding: 20px;
-  border: 1px solid #1c4109;
+  padding: 60px;
+  border: 1px solid #4d5dae;
   border-radius: 5px;
   background-image: url(https://media.istockphoto.com/vectors/black-community-a-group-of-african-people-human-rights-fight-racism-vector-id1233951337?k=20&m=1233951337&s=612x612&w=0&h=ULdNfFCpXwftgqoYpl_MMlqTv2ZNLc0YIi8MHTc53yg=);
   color: white;
@@ -54,7 +54,7 @@ li:first-letter {
 }
 
 .weather-temperature strong {
-  color: rgb(33, 33, 33);
+  color: rgb(255, 255, 255);
   font-size: 64px;
   line-height: 1;
   font-weight: 400;
@@ -67,7 +67,7 @@ li:first-letter {
 }
 
 .weather-temperature .active {
-  color: rgb(33, 33, 33);
+  color: rgb(255, 255, 255);
   cursor: default;
 }
 
@@ -78,7 +78,7 @@ li:first-letter {
 .weather-forecast {
   margin-top: 20px;
   text-align: center;
-  color: #000;
+  color: rgb(255, 255, 255);
 }
 
 .weather-forecast-date {
